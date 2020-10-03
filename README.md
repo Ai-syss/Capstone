@@ -15,17 +15,45 @@ The World Happiness Report of 153 countries was released at the United Nations o
 <table>
   <thead>
     <tr>
-      <th> **Column Name** </th>
-      <th>Second Header</th>
+      <th>Column Name</th>
+      <th>Column Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Content Cell</td>
-      <td>Content Cell</td>
+      <td>Country</td>
+      <td>Name of country</td>
     </tr>
     <tr>
-      <td>Content Cell</td>
-      <td>Content Cell</td>
+      <td>Regional indicator</td>
+      <td>Region where the country belongs</td>
+    </tr>
+    <tr>
+      <td>Happiness score</td>
+      <td>A metric measured by asking the sampled people the question: "How would you rate your happiness on a scale of 0 to 10 where 10 is the happiest."</td>
+    </tr>
+    <tr>
+      <td>Logged GDP per capita</td>
+      <td>The extent to which GDP contributes to the calculation of the Happiness Score</td>
+    </tr>
+    <tr>
+      <td>Social support</td>
+      <td>The extent to which Family and friends contribute to the calculation of the Happiness Score</td>
+    </tr>
+    <tr>
+      <tdHealthy life expectancy</td>
+      <td>The extent to which Life expectancy contributed to the calculation of the Happiness Score</td>
+    </tr>
+    <tr>
+      <td>Freedom to make life choices</td>
+      <td>The extent to which Freedom contributed to the calculation of the Happiness Score</td>
+    </tr>
+    <tr>
+      <td>Generosity</td>
+      <td>The extent to which generosity of people contributed to the calculation of the Happiness Score</td>
+    </tr>
+     <tr>
+      <td>Perceptions of corruption</td>
+      <td>The extent to which Perception of Corruption contributes to Happiness Score</td>
     </tr>
   </tbody>
