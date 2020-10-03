@@ -64,4 +64,42 @@ The World Happiness Report of 153 countries was released at the United Nations o
   
   ![](https://github.com/Ai-syss/Capstone/blob/master/img/HappinessScore20countries.PNG)
   
+  This represents the Happiness scores of top 20 countries. The happiness scores of these countries range closely between 7 and 8.
+  
+## Happiness score by Region
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/Happinessbyregion.PNG)
+
+This represents the Happiness scores by region of the 153 countries with the highest being for North America and ANZ, Western Europe, Latin America and Caribbean.
+
+## Factors affecting Happiness score in Denmark
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/denmark.PNG)
+
+This shows the degree in which the six factors considered affect the happiness score in a country with a high happiness score. Freedom to make life choices and social support affect the happiness score the most.
+
+## Factors affecting Happiness score in Afghanistan
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/Afganisthan.PNG)
+
+This shows the degree in which the six factors considered affect the happiness score in a country with least happiness score. Generosity and social support affect the happiness score the most.
+
+## Happiness score & Social support
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/RegressionPlot(Social_supportVsHappinessScore).PNG)
+
+This shows the relationship between Happiness score and the factor that affects it the most ‘Social support’.
+
+## Happiness score & Perceptions of corruption
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/HapscreVsCorruption.PNG)
+
+This shows the relationship between Happiness score and the factor that affects it the least ‘Perceptions of corruption’.
+
+## 
+
+
+
+
+  
   
