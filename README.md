@@ -57,6 +57,7 @@ The World Happiness Report of 153 countries was released at the United Nations o
       <td>The extent to which Perception of Corruption contributes to Happiness Score</td>
     </tr>
   </tbody>
+  </table>
   
   ## Visualization
   
@@ -96,7 +97,48 @@ This shows the relationship between Happiness score and the factor that affects 
 
 This shows the relationship between Happiness score and the factor that affects it the least ‘Perceptions of corruption’.
 
-## 
+## Model Development
+
+## Multiple Linear Regression Model
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/ModelDevelopment.PNG)
+
+value of the intercept=-2.05937726
+Values of coefficients: array([0.229, 2.7233, 0.035, 1.776, 0.410, -0.628])
+The R-squared value=0.74833231
+We can see that the fitted values are reasonably close to the actual values, since the two distributions overlap a bit.
+
+## Model Evaluation
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/Modeleval1.PNG)
+
+Plot of predicted values using the training data compared to actual training data.
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/Modeleval2.PNG)
+
+Plot of predicted values using the test data compared to actual test data.
+
+## Polynoial Regression Model
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/Modeval3.PNG)
+
+As the plot is neither over-fitting nor under-fitting, the model fits the data.
+
+![](https://github.com/Ai-syss/Capstone/blob/master/img/r%5E2.PNG)
+
+## Observations
+
+* North America, Australia & New Zealand are the regions with highest Happiness scores.
+* Freedom to make life choices and social support affect the happiness score the most.
+* Healthy life expectancy affects the happiness score the least.
+* The Happiness score is positively correlated to Social support & negatively correlated to Perceptions of corruption.  
+
+## Conclusion
+
+Analyzing the World Happiness Report 2020 has provided insights about how social support and liberation in a country increases happiness of its citizens. This might be helpful for governments to consider these factors while making policy-decisions eventually leading to well-being of all.
+
+
+
 
 
 
