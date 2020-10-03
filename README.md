@@ -62,6 +62,6 @@ The World Happiness Report of 153 countries was released at the United Nations o
   
   ### Happiness score of Different Countries
   
-  !(https://github.com/Ai-syss/Capstone/blob/master/img/HappinessScore20countries.PNG)
+  ![](https://github.com/Ai-syss/Capstone/blob/master/img/HappinessScore20countries.PNG)
   
   
