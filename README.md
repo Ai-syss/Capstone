@@ -15,7 +15,7 @@ The World Happiness Report of 153 countries was released at the United Nations o
 <table>
   <thead>
     <tr>
-      <th>First Header</th>
+      <th> **Column Name** </th>
       <th>Second Header</th>
     </tr>
   </thead>
