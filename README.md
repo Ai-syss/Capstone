@@ -41,7 +41,7 @@ The World Happiness Report of 153 countries was released at the United Nations o
       <td>The extent to which Family and friends contribute to the calculation of the Happiness Score</td>
     </tr>
     <tr>
-      <tdHealthy life expectancy</td>
+      <td>Healthy life expectancy</td>
       <td>The extent to which Life expectancy contributed to the calculation of the Happiness Score</td>
     </tr>
     <tr>
