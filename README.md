@@ -57,3 +57,10 @@ The World Happiness Report of 153 countries was released at the United Nations o
       <td>The extent to which Perception of Corruption contributes to Happiness Score</td>
     </tr>
   </tbody>
+  
+  ## Visualization
+  
+  ### Happiness score of Different Countries
+  
+  
+  
